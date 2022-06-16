@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
+.text-hoverable:hover {
+    color: hsl(0, 0%, 100%, 0.75);
+}
+
+.text-transparent-white {
+    color: hsl(0, 0%, 100%, 0.75);
+}
+
+.text-very-light-grey {
+    color: hsl(0, 0%, 95%);
+}
+
+.text-bright-orange {
+    color: hsl(31, 77%, 52%);
+}
+
+.text-dark-cyan {
+    color: hsl(184, 100%, 22%);
+}
+
+.text-very-dark-cyan {
+    color: hsl(179, 100%, 13%);
+}
+
+.border-very-light-grey {
+    border-color: hsl(0, 0%, 95%);
+}
+
+.bg-very-light-grey {
+    background-color: hsl(0, 0%, 95%);
+}
+
+.bg-bright-orange {
+    background-color: hsl(31, 77%, 52%);
+}
+
+.bg-dark-cyan {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.bg-very-dark-cyan {
+    background-color: hsl(179, 100%, 13%);
+}
+
+.text-big-shoulders {
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+}
+
+.text-lexend-deca {
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+}
+
+.text-small {
+    font-size: 15px;
+}
+
+.text-large {
+    font-size: 40px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
